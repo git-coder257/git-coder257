@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @git-coder257
-- 👀 I’m interested in full stack development with javascript.
+- 👀 I’m interested in full stack development with javascript/typescript.
 - 🌱 I’m currently learning C++.
 
 <!---
